@@ -1,4 +1,4 @@
-# 🔍 ZERA - Web Vulnerability Scanner (CLI Tool)
+ZERA - Web Vulnerability Scanner (CLI Tool)
 
 **ZERA** is a Python-based command-line tool that helps identify common web application vulnerabilities. Designed for cybersecurity professionals, students, and ethical hackers, ZERA scans target websites for:
 
@@ -9,12 +9,12 @@
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🌐 Intelligent website crawling
-- 🛡️ Tests URL parameters and form inputs
-- 🧪 Detects missing HTTP security headers
-- 📝 Generates HTML and TXT reports
-- ⚡ Easy-to-use CLI interface
+-  Intelligent website crawling
+-  Tests URL parameters and form inputs
+-  Detects missing HTTP security headers
+-  Generates HTML and TXT reports
+-  Easy-to-use CLI interface
 
 ---
